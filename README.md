@@ -1,4 +1,4 @@
-# heat-distribution-simulation
+# Heat-Distribution-Simulation
 這是一個熱擴散模擬器，用於模擬不同材料中的溫度變化，它基於有限差分方法，將空間離散化為網格，時間離散化為步驟，並使用熱擴散方程進行模擬。
 
 ## 功能和結構：
